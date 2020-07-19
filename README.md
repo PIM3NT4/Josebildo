@@ -16,3 +16,7 @@ no Youtube.
 - [Manual de Montagem](assets/manual.pdf)
 - [Projeto da caixa para CAD/3D Printer](assets/caixa.stl)
 - [Projeto da tampa para CAD/3D Printer](assets/tampa.stl)
+
+# Licença
+
+Este projeto é regido pela [Licença MIT](LICENSE).
