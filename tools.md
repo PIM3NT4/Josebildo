@@ -13,6 +13,6 @@
 | Isqueiro | ----- |
 | Tubo termoretrátil | ----- |
 | Multímetro | ----- |
-| Arco serra¹ | ----- |
+| Arco serra&sup1; | ----- |
 
 1-Caso não tenha impressora 3D
