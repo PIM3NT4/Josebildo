@@ -15,9 +15,9 @@
 ![Diodo Retificador](assets/img/terminals-diode.jpg)
 
 ## LED
-![LED](terminals-led.jpg)
+![LED](assets/img/terminals-led.jpg)
 
 # Tabelas
 
 ## Cores - Resistores
-![Tabela de cores](assets/img/resistor-color-table.jpg)
+![Tabela de cores](assets/img/resistor-color-table.png)
